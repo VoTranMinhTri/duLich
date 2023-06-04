@@ -2,6 +2,6 @@
 environment = { PHP_VERSION = "8.1" }
 [[redirects]]
 from = "/*"
-to = 'index.html'
+to = 'index'
 status = 200
 
