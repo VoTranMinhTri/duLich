@@ -1,2 +1,4 @@
 [build]
-    environment = { PHP_VERSION = "8.1" }
+publish = "dist"
+environment = { PHP_VERSION = "8.1" }
+
