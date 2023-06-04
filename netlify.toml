@@ -1,3 +1,7 @@
 [build]
 environment = { PHP_VERSION = "8.1" }
+[[redirects]]
+from = "/*"
+to = 'index.html'
+status = 200
 
