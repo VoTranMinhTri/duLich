@@ -848,14 +848,14 @@
                                                 href="tel:0966.837.937">0966.837.937</a>&nbsp;- Zalo: <a
                                                 href="tel:0966.837.937">0966.837.937</a></p>
                                         <p><span class="fa fa-envelope" style="color:rgb(0, 0, 0);"></span>Email: <a
-                                                href="mailto:info@ngocviet.net">info@ngocviettravel.net</a> - <a
-                                                href="mailto:info@ngocviettravel.net">info@ngocviettravel.com</a>
+                                                href="mailto:info@goldenlotustravel.net">info@goldenlotustravel.net</a> - <a
+                                                href="mailto:info@goldenlotustravel.net">info@goldenlotustravel.com</a>
                                         </p>
                                         <p><span class="fa fa-globe" style="color:rgb(0, 0, 0);"></span>Web:&nbsp;<a
-                                                href="">ngocviet.net</a> -&nbsp;<a
-                                                href="">ngocviettravel.net</a> - <a
-                                                href="">dulichngocviet.net</a>&nbsp;-&nbsp;<a
-                                                href="">ngocviettravel.com</a><br>
+                                                href="">goldenlotustravel.net</a> -&nbsp;<a
+                                                href="">goldenlotustravel.net</a> - <a
+                                                href="">dulichgoldenlotustravel.net</a>&nbsp;-&nbsp;<a
+                                                href="">goldenlotustravel.com</a><br>
                                             GPKD số 0312181030 do Sở KH và ĐT TP Hồ Chí Minh cấp ngày 12/03/2013<br>
                                             GĐ/Sở hữu website: Thúy Vy</p>
                                     </div>
