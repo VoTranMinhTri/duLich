@@ -100,7 +100,7 @@ img {
 }
 
 .header {
-    background: #6b7375;
+    background: white;
     padding-top: 15px;
     padding-bottom: 20px;
 }
@@ -128,7 +128,7 @@ img {
 
 .logo_top ul h2 {
     font-size: 29px;
-    color: white;
+    color: #6b7375;
     line-height: 35px;
     text-transform: uppercase;
     font-weight: 500;
@@ -137,7 +137,7 @@ img {
 
 .logo_top ul h3 {
     font-size: 28px;
-    color: #f11e2b;
+    color: #ffc000;
     line-height: 35px;
     text-transform: capitalize;
     font-weight: 500;
@@ -152,7 +152,7 @@ img {
 }
 
 .header_top {
-    background: #d0df7b;
+    background: #ffc000;
     padding: 5px 0;
 }
 
@@ -161,7 +161,7 @@ img {
     padding-left: 10px;
     float: left;
     font-size: 15px;
-    color: #fff;
+    color: black;
     padding-right: 10px;
 }
 
@@ -184,14 +184,14 @@ img {
 }
 
 .header_top ul li a {
-    color: #fff;
+    color: black;
     text-transform: capitalize;
     transition: color .33s cubic-bezier(.33, 0, .2, 1) 0s, fill .33s cubic-bezier(.33, 0, .2, 1) 0s, background .33s cubic-bezier(.33, 0, .2, 1) 0s;
     -moz-transition: color .33s cubic-bezier(.33, 0, .2, 1) 0s, fill .33s cubic-bezier(.33, 0, .2, 1) 0s, background .33s cubic-bezier(.33, 0, .2, 1) 0s;
 }
 
 .header_top ul li a:hover {
-    color: #6b7375;
+    color: white;
 }
 
 .header_top ul.left_id_top {
@@ -210,9 +210,9 @@ img {
 
 .timkiem_top {
     float: left;
-    border: solid #6b7375 1px;
+    border: solid white 1px;
     margin-right: 30px;
-    background: #d0df7b;
+    background: #ffc000;
     border-radius: 4px;
 }
 
@@ -258,12 +258,12 @@ img {
 
 .giohang_top i {
     font-size: 23px;
-    color: white;
+    color: #6b7375;
 }
 
 .giohang_top h3 {
     font-size: 14px;
-    color: white;
+    color: #6b7375;
     font-weight: normal;
     text-transform: capitalize;
     line-height: 22px;
@@ -289,7 +289,7 @@ img {
 
 .giohang_top:hover h3 span {
     color: #fff;
-    background: orange;
+    background: #ffc000;
 }
 
 .hotline_header {
@@ -337,7 +337,7 @@ img {
 .box_menu {
     padding: 0;
     width: 100%;
-    background: #d0df7b;
+    background: #ffc000;
 }
 
 .box_menu.fixed .logo_top img {
@@ -348,7 +348,7 @@ img {
     position: fixed;
     top: 0 !important;
     z-index: 99;
-    background: #d0df7b;
+    background: #ffc000;
     width: 100%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.18);
     padding: 0;
@@ -430,7 +430,7 @@ img {
     font-size: 15px;
     text-decoration: none;
     text-transform: capitalize;
-    color: #fff;
+    color: black;
     font-weight: 500;
     transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
@@ -490,7 +490,7 @@ img {
 }
 
 .menu li.homepage a:hover {
-    color: #6b7375;
+    color: white;
     background: none;
 }
 
@@ -883,7 +883,7 @@ img {
 }
 
 .box_home_2 ul h4 a:hover {
-    background: #6b7375;
+    background: #ffc000;
 }
 
 .box_home_2 {
@@ -900,7 +900,7 @@ img {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #033958d1;
+    background: #072222d1;
     transition: .3s all ease;
     z-index: 0;
 }
@@ -1017,8 +1017,8 @@ img {
 
 .footer_bottom {
     padding-top: 20px;
-    background: #6b7375;
-    color: #fff;
+    background: #ffc000;
+    color: black;
     padding-bottom: 20px;
 }
 
@@ -1124,7 +1124,7 @@ img {
 }
 
 .copyright_bottom a {
-    color: #ffffff;
+    color: black;
     -webkit-transition: color 0.3s, background 0.3s, border 0.3s;
     -moz-transition: color 0.3s, background 0.3s, border 0.3s;
     -o-transition: color 0.3s, background 0.3s, border 0.3s;
@@ -1148,7 +1148,7 @@ img {
     margin-right: 10px;
     text-align: center;
     margin-top: 20px;
-    border-top: solid #FFF 1px;
+    border-top: solid black 1px;
     font-size: 18px;
     line-height: 30px;
 }
@@ -1556,7 +1556,8 @@ ul#lightSlider li {
 }
 
 .tour_hot_home {
-    background: url(../images/bg_tour_hot_home-1.jpg) center center fixed;
+    background: #ffc000;
+    /* background: url(../images/bg_tour_hot_home-1.jpg) center center fixed; */
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1591,7 +1592,7 @@ ul#lightSlider li {
     display: block;
     list-style: none;
     line-height: 0;
-    border-bottom: solid #0094D9 2px;
+    border-bottom: solid #ffc000 2px;
 }
 
 .tour_id ul:hover li img,
@@ -1639,7 +1640,7 @@ ul#lightSlider li {
 }
 
 .tour_id ul:hover h3 {
-    color: #0094D9;
+    color: #ffc000;
 }
 
 .placeNav_2,
@@ -1791,7 +1792,7 @@ ul#lightSlider li {
 }
 
 .dichvu_home ul h3 a:hover {
-    background: #0094D9;
+    background: #ffc000;
 }
 
 .dichvu_home:before {
@@ -2863,7 +2864,7 @@ td {
 }
 
 .bottom_more h3 a {
-    background: #0094D9;
+    background: #ffc000;
     text-transform: uppercase;
     color: #ffffff;
     padding: 0 40px;
@@ -3080,7 +3081,7 @@ td {
 
 .box_dangnhap_popup h2 a:hover {
     color: #fff;
-    background: #0094D9;
+    background: #ffc000;
 }
 
 .ungtuyen_popup {
@@ -3178,7 +3179,7 @@ li.is_step_0.li_sp.hide_2 {
 }
 
 .footer_company ul a {
-    color: #fff;
+    color: black;
 }
 
 .footer_company ul a:hover {
@@ -3186,7 +3187,7 @@ li.is_step_0.li_sp.hide_2 {
 }
 
 .footer_company ul .fa {
-    color: #fff !important;
+    color: black !important;
     margin-right: 10px;
 }
 
@@ -3348,7 +3349,7 @@ img.demo.cursor.dotxx.active {
 
 .dv-nd-footer ul a {
     font-size: 17px;
-    color: #fff;
+    color: black;
     line-height: 28px;
     display: block;
     margin-bottom: 3px;
@@ -3602,7 +3603,7 @@ img.demo.cursor.dotxx.active {
         height: 40px;
         position: absolute;
         right: 0;
-        background: #0094d9 url(../images/icon-search.png) no-repeat center center;
+        background: #ffc000 url(../images/icon-search.png) no-repeat center center;
     }
 
     .giohang_top h3 {
@@ -3787,7 +3788,7 @@ img.demo.cursor.dotxx.active {
     }
 
     .mm-panel.mm-hasnavbar .mm-navbar {
-        background: #0094d9 !important;
+        background: #ffc000 !important;
         height: 38px;
         line-height: 18px;
     }

@@ -6,7 +6,7 @@
                 style="display: block; text-align: start; float: none; position: relative; inset: auto; z-index: auto; width: 1691px; height: 626px; margin: 0px; overflow: hidden; cursor: move;">
                 <div class="banner"
                     style="text-align: left; float: none; position: absolute; inset: 0px auto auto 0px; margin: 0px; width: 21983px; height: 626px; z-index: auto; opacity: 1;">
-                    <li style="width: 1691px;">
+                    {{-- <li style="width: 1691px;">
                         <img src="{{ asset('assets/datafiles/setone/1592377744_Bia-xe-da-chinh.png') }}"
                             alt="Cho Thuê Xe Du Lịch Từ 4 Đến 45 Chỗ">
                         <div class="pagewrap">
@@ -26,11 +26,11 @@
 
                         </div>
 
-                    </li>
+                    </li> --}}
                     <li style="width: 1691px;">
-                        <img src="{{ asset('assets/datafiles/setone/1592291581_Khach-doan.png') }}"
-                            alt="TOUR DÀNH CHO KHÁCH ĐOÀN">
-                        <div class="pagewrap">
+                        <img src="{{ asset('assets/datafiles/setone/2.png') }}"
+                            alt="">
+                        {{-- <div class="pagewrap">
 
                             <div class="box_title_banner">
 
@@ -45,13 +45,13 @@
 
                             </div>
 
-                        </div>
+                        </div> --}}
 
                     </li>
                     <li style="width: 1691px;">
-                        <img src="{{ asset('assets/datafiles/setone/1592211854_Hinh-Team-Building.png') }}"
-                            alt="TEAM BUILDING CHUYÊN NGHIỆP">
-                        <div class="pagewrap">
+                        <img src="{{ asset('assets/datafiles/setone/3.png') }}"
+                            alt="">
+                        {{-- <div class="pagewrap">
 
                             <div class="box_title_banner">
 
@@ -67,13 +67,13 @@
 
                             </div>
 
-                        </div>
+                        </div> --}}
 
                     </li>
                     <li style="width: 1691px;">
-                        <img src="{{ asset('assets/datafiles/setone/1592294405_Bia-gala-dinner.png') }}"
-                            alt="TỔ CHỨC SỰ KIỆN CHUYÊN NGHIỆP">
-                        <div class="pagewrap">
+                        <img src="{{ asset('assets/datafiles/setone/1.png') }}"
+                            alt="">
+                        {{-- <div class="pagewrap">
 
                             <div class="box_title_banner">
 
@@ -89,10 +89,10 @@
 
                             </div>
 
-                        </div>
+                        </div> --}}
 
                     </li>
-                    <li style="width: 1691px;">
+                    {{-- <li style="width: 1691px;">
                         <img src="{{ asset('assets/datafiles/setone/1592190087_Bia-bac.png') }}"
                             alt="Tour Miền Bắc - Khởi Hành Hàng Tuần">
                         <div class="pagewrap">
@@ -109,8 +109,8 @@
 
                         </div>
 
-                    </li>
-                    <li style="width: 1691px;">
+                    </li> --}}
+                    {{-- <li style="width: 1691px;">
                         <img src="{{ asset('assets/datafiles/setone/1592205482_bia-ve-may-bay.png') }}"
                             alt="Đại lý vé máy bay trên toàn quốc">
                         <div class="pagewrap">
@@ -131,7 +131,7 @@
 
                         </div>
 
-                    </li>
+                    </li> --}}
                 </div>
             </div>
             <ul class="pagiBanner" style="display: block;">
@@ -999,7 +999,7 @@
 
             </div>
         </div>
-        <div class="dichvu_home"
+        {{-- <div class="dichvu_home"
             style="background: url({{ asset('assets/datafiles/setone/1577814362_bg_1.jpg') }}) center center fixed; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; -ms-background-size: cover;">
 
             <div class="pagewrap">
@@ -1054,7 +1054,7 @@
                 </div>
             </div>
 
-        </div>
+        </div> --}}
         <div class="box_ttvb_home">
             <div class="pagewrap">
                 <div class="title_bs">TIN TỨC <span>&amp; SỰ KIỆN</span>
@@ -1164,7 +1164,7 @@
 
         </div>
         <div class="box_home_2"
-            style="background: url({{ asset('assets/datafiles/setone/1577813835_bg_2.jpg') }}) center center fixed; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; -ms-background-size: cover;">
+            style="background: url({{ asset('assets/datafiles/setone/1577813835_bg_2.jpg') }}) center center fixed; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; -ms-background-size: cover;padding:50px">
 
             <div class="pagewrap">
 
@@ -1211,7 +1211,7 @@
                                 alt="Đặt Khách Sạn"></li>
 
                         <h3>Đặt Khách Sạn<span>Đặt khách sạn tốt nhất tại các địa điểm du lịch nổi tiếng
-                                Liên hệ: Ms Dung: 032.828.9802</span></h3>
+                                Liên hệ: Ms Vy: 077.265.7127</span></h3>
 
                         <div class="clr"></div>
 
@@ -1223,7 +1223,7 @@
                                 alt="Cho Thuê Xe"></li>
 
                         <h3>Cho Thuê Xe<span>Dịch vụ thuê xe 4 đến 45 chỗ,&nbsp;giá tốt nhất&nbsp;uy tín và chu đáo
-                                Liên hệ: Mr Ngọc:&nbsp;0908.816.779</span></h3>
+                                Liên hệ: Ms Vy:&nbsp;077.265.7127</span></h3>
 
                         <div class="clr"></div>
 
@@ -1234,10 +1234,10 @@
                                 data-original="{{ asset('assets/datafiles/setone/1577887668_i-ads-3.svg') }}"
                                 alt="Visa &amp; Hộ Chiều"></li>
 
-                        <h3>Visa &amp; Hộ Chiều<span>Dịch vụ Hộ Chiếu và&nbsp;Visa nhanh, rẻ. Visa trọn gói, thủ tục đơn
+                        <h3>Visa &amp; Hộ Chiếu<span>Dịch vụ Hộ Chiếu và&nbsp;Visa nhanh, rẻ. Visa trọn gói, thủ tục đơn
                                 giản
 
-                                Liên hệ: Mr Ngọc:&nbsp;0908.816.779</span></h3>
+                                Liên hệ: Ms Vy:&nbsp;077.265.7127</span></h3>
 
                         <div class="clr"></div>
 
@@ -1249,7 +1249,7 @@
                                 alt="Đại Lý Vé Máy Bay"></li>
 
                         <h3>Đại Lý Vé Máy Bay<span>Vé máy bay giá rẻ nhất, nhiều khuyến mãi hấp dẫn
-                                Liên hệ: Ms Dung: 032.828.9802</span></h3>
+                                Liên hệ: Ms Vy: 077.265.7127</span></h3>
 
                         <div class="clr"></div>
 

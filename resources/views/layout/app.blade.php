@@ -439,13 +439,12 @@
                     <div class="header_top">
                         <div class="pagewrap">
                             <ul class="left_id_top">
-                                <li><i class="fa fa-map-marker"></i>86 Đường Số 42, Phường 10, Quận 6, TP.HCM</li>
+                                <li><i class="fa fa-map-marker"></i>69/68 Đặng Thùy Trâm, Phường 13, Quận Bình Thạnh,
+                                    TP.HCM</li>
                                 <li><a href="index.php" title="Email"><i class="fa fa-envelope"></i></a><a
-                                        href="mailto:info@ngocviettravel.com">info@ngocviettravel.com</a></li>
+                                        href="mailto:goldenlotustravel7@gmail.com">goldenlotustravel7@gmail.com</a></li>
                                 <li><i class="fa fa-volume-control-phone" aria-hidden="true"></i>Hotline: <a
-                                        href="tel:028.2216.6688">028.2216.6688</a> - <a
-                                        href="tel:0908.816.779">0908.816.779</a> - <a
-                                        href="tel:0966.837.937">0966.837.937</a></li>
+                                        href="tel:077.265.7127">077.265.7127</a></li>
                             </ul>
                             <ul class="right_id_top">
                                 <li><a onclick="LOAD_popup_new('/pa-size-child/dang-ky/', '400px')" class="cur"><i
@@ -461,10 +460,12 @@
                     <div class="header">
                         <div class="pagewrap">
                             <div class="logo_top">
-                                <li><a href=""><img src="" alt=""></a></li>
+                                <li><a href=""><img
+                                            src="{{ asset('assets/datafiles/setone/imgpsh_fullsize_anim-1.jpg') }}"
+                                            alt=""></a></li>
                                 <ul>
                                     <h2>CÔNG TY GOLDEN LOTUS TRAVEL</h2>
-                                    <h3>Chất Lượng Làm Nên Thương Hiệu</h3>
+                                    <h3>Chất Lượng Vàng - Ngàn Kỉ Niệm</h3>
                                 </ul>
                                 <div class="clr"></div>
                             </div>
@@ -731,42 +732,6 @@
                                                 Thuê Âm Thanh, Ánh Sáng</a></li>
                                         <li class="li_sp"><a class="" href="" icons="›">Cho
                                                 Thuê MC, Lễ Tân</a></li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Cho
-                                                Thuê Nhóm Múa</a></li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Cho
-                                                Thuê Đội Lân</a></li>
-                                    </ul>
-                                </li>
-                                <li class="is_step_7 li_sp hide_9"><a class=" active_mn_7" href=""
-                                        icons="›" addok="ok">ĐẠI LÝ VÉ MÁY BAY<i
-                                            class="fa fa-angle-down"></i></a>
-                                    <ul class="">
-                                        <li class="li_sp"><a class="" href="" icons="›">Trong
-                                                nước</a></li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Ngoài
-                                                nước</a></li>
-                                    </ul>
-                                </li>
-                                <li class="is_step_8 li_sp hide_10"><a class=" active_mn_8" href=""
-                                        icons="›" addok="ok">CHO THUÊ XE<i
-                                            class="fa fa-angle-down"></i></a>
-                                    <ul class="">
-                                        <li class="li_sp"><a class="" href="" icons="›">BẢNG
-                                                GIÁ CHO THUÊ XE 2023</a></li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Xe 7
-                                                Chỗ Đời Mới Cao Cấp</a></li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Xe 29
-                                                chỗ xe và 33 chỗ</a></li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Xe 45
-                                                chỗ cao cấp đời mới</a></li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Xe 4
-                                                chỗ, xe hoa từ bình thường đến xe cao cấp</a>
-                                        </li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Xe 35
-                                                Chỗ Đời Mới Cao Cấp</a></li>
-                                        <li class="li_sp"><a class="" href="" icons="›">Xe 16
-                                                chỗ đời mới thích hợp cho mọi gia đình</a>
-                                        </li>
                                     </ul>
                                 </li>
                                 <li class="is_step_0 li_sp hide_11"><a class="active_mn_01 acti" href=""
@@ -837,27 +802,21 @@
                         <div class="pagewrap">
                             <div class="footer_company">
                                 <ul>
-                                    <h3>CÔNG TY TNHH DV VẬN TẢI VÀ DU LỊCH GOLDEN LOTUS TRAVEL</h3>
+                                    <h3>CÔNG TY TNHH GOLDEN LOTUS TRAVEL</h3>
                                     <div>
                                         <p><span class="fa fa-map-marker" style="color:rgb(0, 0, 0);"></span>Địa
-                                            chỉ: 86&nbsp;Đường Số 42, Phường 10, Quận 6, TP.HCM</p>
+                                            chỉ: 69/68 Đặng Thùy Trâm, Phường 13, Quận Bình Thạnh, TP.HCM</p>
                                         <p><span class="fa fa-phone" style="color:rgb(0, 0, 0);"></span>Điện
-                                            thoại: 028.2216.6688&nbsp;Fax: 028.2216.6688</p>
-                                        <p><span class="fa fa-phone-square" style="color:rgb(0, 0, 0);"></span>Di
-                                            Động: <a href="tel:0908.816.779">0908.816.779</a> - <a
-                                                href="tel:0966.837.937">0966.837.937</a>&nbsp;- Zalo: <a
-                                                href="tel:0966.837.937">0966.837.937</a></p>
+                                            thoại: 077.265.7127</p>
                                         <p><span class="fa fa-envelope" style="color:rgb(0, 0, 0);"></span>Email: <a
-                                                href="mailto:info@goldenlotustravel.net">info@goldenlotustravel.net</a> - <a
-                                                href="mailto:info@goldenlotustravel.net">info@goldenlotustravel.com</a>
+                                                href="mailto:goldenlotustravel7@gmail.com">goldenlotustravel7@gmail.com</a>
                                         </p>
                                         <p><span class="fa fa-globe" style="color:rgb(0, 0, 0);"></span>Web:&nbsp;<a
                                                 href="">goldenlotustravel.net</a> -&nbsp;<a
                                                 href="">goldenlotustravel.net</a> - <a
                                                 href="">dulichgoldenlotustravel.net</a>&nbsp;-&nbsp;<a
                                                 href="">goldenlotustravel.com</a><br>
-                                            GPKD số 0312181030 do Sở KH và ĐT TP Hồ Chí Minh cấp ngày 12/03/2013<br>
-                                            GĐ/Sở hữu website: Thúy Vy</p>
+                                            Sở hữu website:Trần Thị Thúy Vy</p>
                                     </div>
                                 </ul>
                             </div>
@@ -906,14 +865,20 @@
                                             style="border: none; visibility: visible; width: 290px; height: 190px;"
                                             class=""></iframe></span>
                                 </div> --}}
+                                <iframe
+                                    src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgoldenlotustravel7&tabs=timeline&width=290&height=190&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1221073151765386"
+                                    width="290" height="190" style="border:none;overflow:hidden"
+                                    scrolling="no" frameborder="0" allowfullscreen="true"
+                                    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                             </div>
                             <div class="clr"></div>
 
                             <div class="copyright_bottom">
 
-                                <p>Bản quyền thuộc về CÔNG TY VẬN TẢI, SỰ KIỆN VÀ DU LỊCH GOLDEN LOTUS TRAVEL | <a
+                                <p>Bản quyền thuộc về CÔNG TY TNHH GOLDEN LOTUS TRAVEL | <a
                                         href="" title="thiết kế website" target="_blank">Thiết kế và
-                                        phát triển bởi</a> <a href="" target="_blank"> GOLDEN LOTUS TRAVEL</a></p>
+                                        phát triển bởi</a> <a href="" target="_blank"> GOLDEN LOTUS
+                                        TRAVEL</a></p>
                                 <p><a href="" target=""><img
                                             src="{{ asset('assets/datafiles/setone/1577813789_icon_bct.png') }}"
                                             class="isload isload_full isload_full_1" data-original=""
